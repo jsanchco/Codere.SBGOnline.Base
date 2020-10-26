@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codere.SBGOnline.WebAPI", "Codere.SBGOnline.WebAPI\Codere.SBGOnline.WebAPI.csproj", "{C0F92667-98BC-4BE4-996F-F33D32156DA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codere.SBGOnline.Services", "Codere.SBGOnline.Services\Codere.SBGOnline.Services.csproj", "{D688CFF4-C40C-4C2C-93E3-D52D09B73649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F92667-98BC-4BE4-996F-F33D32156DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F92667-98BC-4BE4-996F-F33D32156DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F92667-98BC-4BE4-996F-F33D32156DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F92667-98BC-4BE4-996F-F33D32156DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D688CFF4-C40C-4C2C-93E3-D52D09B73649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D688CFF4-C40C-4C2C-93E3-D52D09B73649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D688CFF4-C40C-4C2C-93E3-D52D09B73649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D688CFF4-C40C-4C2C-93E3-D52D09B73649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4417334-A687-4ACB-8B32-9F1182383BE5}
+	EndGlobalSection
+EndGlobal
